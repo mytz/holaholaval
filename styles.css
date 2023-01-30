@@ -18,8 +18,27 @@ body {
     margin-top: 270px;
     padding-left: 3px;
   }
+
+  .bot0n {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-top: 300px;
+    padding-left: 3px;
+  }
   
   .cuerpo {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+  }
+
+  .cuerpo2 {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
